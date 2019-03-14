@@ -13,5 +13,7 @@ public class test {
     public void sao(){
         System.out.println("saosao");
     }
-
+    public void sao1(){
+        System.out.println("新加方法！");
+    }
 }

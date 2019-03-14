@@ -10,5 +10,10 @@ public class test {
     public void fun2(){
         System.out.println("hello world2");
     }
-
+    public void sao(){
+        System.out.println("saosao");
+    }
+    public void sao1(){
+        System.out.println("新加方法！");
+    }
 }

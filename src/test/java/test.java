@@ -10,5 +10,8 @@ public class test {
     public void fun2(){
         System.out.println("hello world2");
     }
+    public void sao(){
+        System.out.println("saosao");
+    }
 
 }
